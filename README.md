@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @huliyalajay
-- 👀 I’m interested in Developing apps in flutter
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on flutter learning and development
+- 👀 I’m interested ReactJS
+- 🌱 I’m currently learning by working on ReactJS Applications
+- 💞️ I’m looking to collaborate on ReactJS learning and development
 - 📫 How to reach me -> huliyalajay@gmail.com
 
 <!---
